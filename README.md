@@ -6,3 +6,4 @@ btc.com
 *.binance.com
 *.slushpool.com
 *.bitmain.com
+*.naw.hiveos.farm
