@@ -7,3 +7,4 @@ btc.com
 *.slushpool.com
 *.bitmain.com
 *.naw.hiveos.farm
+*.ss.antpool.com
