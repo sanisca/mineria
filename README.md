@@ -8,3 +8,4 @@ btc.com
 *.bitmain.com
 *.naw.hiveos.farm
 *.ss.antpool.com
+||antpool.com^
